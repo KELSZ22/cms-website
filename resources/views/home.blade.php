@@ -15,6 +15,10 @@
 
         <x-hero/>
 
+        <x-cards/>
+
+        <x-whyus/>
+
     <x-footer/>
 </body>
 </html>
